@@ -1,5 +1,5 @@
 def using_delete(array, steve)
-  array.delete(steve) 
+  array.delete(array, steve) 
 end 
 
 def using_delete_at(array, 1)
